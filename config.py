@@ -6,8 +6,8 @@ This module defines some constants used in other py files.
 # Database setting
 DB_TYPE = 'mysql'
 DB_NAME = 'yyassistant'
-DB_USER = 'username'
-DB_PASSWORD = 'password'
+DB_USER = 'yy'
+DB_PASSWORD = 'z00gle'
 
 TB_STUDENT = 'student'
 TB_COURSE = 'course'
